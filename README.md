@@ -1,4 +1,4 @@
-# CernAnalysisBDT
+# DataAnalysisCERN
 
 ```
 this repo contains the python scripts I wrote

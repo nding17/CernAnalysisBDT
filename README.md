@@ -8,5 +8,5 @@ actual data is not included
 
 Boosted Decision Trees implementation
 
-check report.pdf to see the actual results for this analysis
+check /slides/report.pdf to see the actual results for this analysis
 ```
